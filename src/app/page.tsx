@@ -51,17 +51,17 @@ export default function LandingPage() {
       title="Securing Your Peace of Mind"
       description="Professional, reliable security solutions tailored to your business. Protect what matters most with S.F. Security & Service."
       testimonials={[
-        { name: "James Anderson", handle: "@janderson", testimonial: "Exceptional service, highly responsive team and very professional officers.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg", imageAlt: "security professional portrait corporate" },
-        { name: "Lisa Montgomery", handle: "@lmontgomery", testimonial: "Trustworthy security partners for our corporate campus for 5 years.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg", imageAlt: "security professional portrait corporate" },
+        { name: "James Anderson", handle: "@janderson", testimonial: "Exceptional service, highly responsive team and very professional officers.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg?_wi=1", imageAlt: "security professional portrait corporate" },
+        { name: "Lisa Montgomery", handle: "@lmontgomery", testimonial: "Trustworthy security partners for our corporate campus for 5 years.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg?_wi=1", imageAlt: "security professional portrait corporate" },
         { name: "Robert Chen", handle: "@rchen", testimonial: "They streamlined our site security and significantly improved our response times.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/friendly-car-salesman-showcasing-dealership-vehicles-clients_482257-112788.jpg", imageAlt: "security professional portrait corporate" },
-        { name: "Sarah Jenkins", handle: "@sjenkins", testimonial: "Professional, discrete, and incredibly effective at loss prevention.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg", imageAlt: "security professional portrait corporate" },
-        { name: "David Thorne", handle: "@dthorne", testimonial: "Best security team we've ever engaged for event logistics.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg", imageAlt: "security professional portrait corporate" }
+        { name: "Sarah Jenkins", handle: "@sjenkins", testimonial: "Professional, discrete, and incredibly effective at loss prevention.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=1", imageAlt: "security professional portrait corporate" },
+        { name: "David Thorne", handle: "@dthorne", testimonial: "Best security team we've ever engaged for event logistics.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg?_wi=1", imageAlt: "security professional portrait corporate" }
       ]}
       buttons={[
         { text: "Contact Us", href: "#contact" },
         { text: "Our Services", href: "#features" }
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg?_wi=2"
       avatars={[
         { src: "http://img.b2bpic.net/free-photo/front-view-cute-girl-looking-away_23-2148436134.jpg", alt: "Client One" },
         { src: "http://img.b2bpic.net/free-photo/woman-wearing-pajamas-while-sitting-bed_273609-13213.jpg", alt: "Client Two" },
@@ -90,7 +90,7 @@ export default function LandingPage() {
         { value: "200+", title: "Contracts Managed" },
         { value: "100%", title: "Client Retention" }
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg?_wi=2"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
     />
@@ -133,8 +133,8 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       members={[
-        { id: "t1", name: "John Doe", role: "CEO", description: "20 years of military leadership in site security and crisis management.", imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg" },
-        { id: "t2", name: "Jane Smith", role: "Director of Operations", description: "Expert in operational efficiency and site surveillance technology.", imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg" },
+        { id: "t1", name: "John Doe", role: "CEO", description: "20 years of military leadership in site security and crisis management.", imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=2" },
+        { id: "t2", name: "Jane Smith", role: "Director of Operations", description: "Expert in operational efficiency and site surveillance technology.", imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg?_wi=2" },
         { id: "t3", name: "Michael Brown", role: "Head of Training", description: "Former instructor focusing on advanced security standards and ethics.", imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg" }
       ]}
       title="Meet Our Leadership"
