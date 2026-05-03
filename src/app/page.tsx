@@ -74,7 +74,7 @@ export default function LandingPage() {
           handle: "@janderson",
           testimonial: "Exceptional service, highly responsive team and very professional officers.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg?_wi=1",
           imageAlt: "security professional portrait corporate",
         },
         {
@@ -82,7 +82,7 @@ export default function LandingPage() {
           handle: "@lmontgomery",
           testimonial: "Trustworthy security partners for our corporate campus for 5 years.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg?_wi=1",
           imageAlt: "security professional portrait corporate",
         },
         {
@@ -98,7 +98,7 @@ export default function LandingPage() {
           handle: "@sjenkins",
           testimonial: "Professional, discrete, and incredibly effective at loss prevention.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=1",
           imageAlt: "security professional portrait corporate",
         },
         {
@@ -106,7 +106,7 @@ export default function LandingPage() {
           handle: "@dthorne",
           testimonial: "Best security team we've ever engaged for event logistics.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg?_wi=1",
           imageAlt: "security professional portrait corporate",
         },
       ]}
@@ -120,7 +120,7 @@ export default function LandingPage() {
           href: "#features",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/blue-light-lines-dots-from-fiber-optic-wires-dark-background-computer-communications-idea-selective-focus-blur-dark-background_166373-1651.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/front-view-cute-girl-looking-away_23-2148436134.jpg",
@@ -188,7 +188,7 @@ export default function LandingPage() {
           title: "Client Retention",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/empty-national-secret-service-operation-room-used-follow-safety-alerts_482257-90051.jpg?_wi=2"
       mediaAnimation="blur-reveal"
       metricsAnimation="slide-up"
     />
@@ -290,14 +290,14 @@ export default function LandingPage() {
           name: "John Doe",
           role: "CEO",
           description: "20 years of military leadership in site security and crisis management.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-business-woman-white-shirt_23-2148095748.jpg?_wi=2",
         },
         {
           id: "t2",
           name: "Jane Smith",
           role: "Director of Operations",
           description: "Expert in operational efficiency and site surveillance technology.",
-          imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blond-man-happy-expression_1194-2843.jpg?_wi=2",
         },
         {
           id: "t3",
